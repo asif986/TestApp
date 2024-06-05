@@ -1,0 +1,42 @@
+[
+  {
+    "taluka_name": "Patur",
+    "district_id": "D01"
+  },
+  {
+    "taluka_name": "Paithan",
+    "district_id": "D03"
+  },
+  {
+    "taluka_name": "Sillod",
+    "district_id": "D03"
+  },
+  {
+    "taluka_name": "Pauni",
+    "district_id": "D02"
+  },
+  {
+    "taluka_name": "Gangapur",
+    "district_id": "D03"
+  },
+  {
+    "taluka_name": "Kannad",
+    "district_id": "D03"
+  },
+  {
+    "taluka_name": "Ausa",
+    "district_id": "D05"
+  },
+  {
+    "taluka_name": "Renapur",
+    "district_id": "D05"
+  },
+  {
+    "taluka_name": "Kagal",
+    "district_id": "D04"
+  },
+  {
+    "taluka_name": "Panhala",
+    "district_id": "D04"
+  }
+]

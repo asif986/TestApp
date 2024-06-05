@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "66307d3d3270c3b2c43bdf73",
+    "district_name": "Kolhapur",
+    "district_id": "D04"
+  },
+  {
+    "_id": "66307d3d3270c3b2c43bdf71",
+    "district_name": "Bhandara",
+    "district_id": "D02"
+  },
+  {
+    "_id": "66307d3d3270c3b2c43bdf70",
+    "district_name": "Akola",
+    "district_id": "D01"
+  },
+  {
+    "_id": "66307d3d3270c3b2c43bdf74",
+    "district_name": "Latur",
+    "district_id": "D05"
+  },
+  {
+    "_id": "66307d3d3270c3b2c43bdf72",
+    "district_name": "Chhatrapati Sambhajinagar",
+    "district_id": "D03"
+  }
+]
